@@ -1,0 +1,59 @@
+.row {
+  font-size: 16px;
+  font-weight: 300;
+}
+.today {
+  border: 1px;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 40%;
+  background: #f9f9f9;
+  margin: 10px 10px 10px 0px;
+  font-size: 16px;
+  font-weight: 300;
+}
+.today p {
+  font-size: 16px;
+  font-weight: 500;
+}
+.cloud {
+  font-size: 30px;
+  color: #5e87b8;
+}
+.sun {
+  font-size: 30px;
+  color: #ffe168;
+}
+.rain {
+  font-size: 30px;
+  color: #5e87b8;
+}
+.showers {
+  font-size: 30px;
+  color: #5e87b8;
+}
+.weather-app {
+  border: 1px solid #5e87b8;
+  border-radius: 10px;
+  max-width: 600px;
+  padding: 20px;
+  margin: 20 px;
+}
+.temperature {
+  font-size: 60px;
+  font-weight: 600;
+  max-width: 70%;
+}
+
+.units {
+  font-size: 30px;
+  font-weight: 300;
+
+  position: relative;
+  top: -25px;
+  padding: 0 auto;
+}
+.week {
+  font-size: 16px;
+  font-weight: 500;
+}
