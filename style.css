@@ -57,3 +57,7 @@
   font-size: 16px;
   font-weight: 500;
 }
+a {
+  display: block;
+  padding: 40px;
+}
