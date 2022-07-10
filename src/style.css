@@ -7,6 +7,9 @@ ul {
 li {
   list-style: none;
 }
+form {
+  border: 1px aqua;
+}
 .row {
   font-size: 16px;
   font-weight: 300;
@@ -16,7 +19,7 @@ li {
   border-radius: 10px;
   padding: 5px;
   max-width: 40%;
-  background: #f9f9f9;
+  background: #e3edf9;
   margin: 0px 10px 10px 0px;
   font-size: 16px;
   font-weight: 300;
@@ -46,13 +49,13 @@ li {
 }
 
 .temperature {
-  font-size: 43px;
+  font-size: 40px;
   font-weight: 600;
   max-width: 70%;
 }
 
 .units {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 300;
 
   position: relative;
